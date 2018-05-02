@@ -1,0 +1,14 @@
+{
+    "name": "42414/composer",
+    "description": "composerInstall",
+    "require": {
+        "twbs/bootstrap": "^4.1"
+    },
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Ivan",
+            "email": "ivanvincius88@unidavi.edu.br"
+        }
+    ]
+}
